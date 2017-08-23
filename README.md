@@ -1,2 +1,2 @@
 # Python-Learning
-This repo contains sneak peek on python 
+This repo contains my sneak peek on python 
