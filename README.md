@@ -1,2 +1,2 @@
-# Python-Learning
-This repo contains my sneak peek on python 
+# Video based event recognition
+- https://github.com/piergiaj/super-events-cvpr18
