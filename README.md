@@ -7,3 +7,7 @@
 
 # How to use specified amount of GPU
 - https://michaelblogscode.wordpress.com/2017/10/10/reducing-and-profiling-gpu-memory-usage-in-keras-with-tensorflow-backend/
+
+# Image inpainting [NVIDIA]
+- https://github.com/MathiasGruber/PConv-Keras
+- https://arxiv.org/pdf/1804.07723.pdf
