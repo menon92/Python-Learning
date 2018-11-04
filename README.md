@@ -2,6 +2,7 @@
 - https://github.com/piergiaj/super-events-cvpr18
 
 # GAN resources
+- https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
 - https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
 - https://www.renom.jp/notebooks/tutorial/generative-model/anoGAN/notebook.html
 
