@@ -21,3 +21,4 @@
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [Python Code Style](https://docs.python-guide.org/writing/style/#code-style)
 - [Python desing patterns](https://refactoring.guru/design-patterns/python)
+- [Zen of python with example](https://gist.github.com/evandrix/2030615)
