@@ -22,3 +22,4 @@
 - [Python Code Style](https://docs.python-guide.org/writing/style/#code-style)
 - [Python desing patterns](https://refactoring.guru/design-patterns/python)
 - [Zen of python with example](https://gist.github.com/evandrix/2030615)
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
