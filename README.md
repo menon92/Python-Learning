@@ -10,9 +10,9 @@
 
 ## Numpy
 
-1. [3D নামপাই অ্যারে কে স্লাইস করা](/numpy-slicing.ipynb)
-2. [নামপাই মাস্কিং ব্যাবহার করে সাদা পিক্সল রিমুভ করা](remove_padding_from_image.py)
-3. [নাম্পাই মাস্কিং ব্যাবহার করে যে কোন পিক্সেল রিমুভ করা](delete_row_and_column_with_same_value.py)
+1. [3D নামপাই অ্যারে কে স্লাইস করা](./numpy-slicing.ipynb)
+2. [নামপাই মাস্কিং ব্যাবহার করে সাদা পিক্সল রিমুভ করা](./remove_padding_from_image.py)
+3. [নাম্পাই মাস্কিং ব্যাবহার করে যে কোন পিক্সেল রিমুভ করা](./delete_row_and_column_with_same_value.py)
 
 
 # Resources
