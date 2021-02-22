@@ -23,3 +23,5 @@
 - [Python desing patterns](https://refactoring.guru/design-patterns/python)
 - [Zen of python with example](https://gist.github.com/evandrix/2030615)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [James Powell: Top To Down, Left To Right](https://www.youtube.com/watch?v=DlgbPLvBs30)
+- [James Powell: So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4&t=2530s)
