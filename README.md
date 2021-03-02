@@ -24,5 +24,6 @@
 - [Python design patterns guide](https://python-patterns.guide/)
 - [Zen of python with example](https://gist.github.com/evandrix/2030615)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [Python functional programming](https://realpython.com/python-functional-programming/)
 - [James Powell: Top To Down, Left To Right](https://www.youtube.com/watch?v=DlgbPLvBs30)
 - [James Powell: So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4&t=2530s)
