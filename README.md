@@ -15,7 +15,7 @@
 3. [নাম্পাই মাস্কিং ব্যাবহার করে যে কোন পিক্সেল রিমুভ করা](./delete_row_and_column_with_same_value.py)
 
 
-# Resources
+## Resources
 
 - [Python PEP-8 style guide](https://www.python.org/dev/peps/pep-0008/)
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
