@@ -17,6 +17,7 @@
 
 ## Resources
 
+- [A guide to SOLID design principles](https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i)
 - [Python PEP-8 style guide](https://www.python.org/dev/peps/pep-0008/)
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [Python Code Style](https://docs.python-guide.org/writing/style/#code-style)
